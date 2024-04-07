@@ -21,11 +21,11 @@ This is a simple Hotel Management System implemented in Java. It provides functi
 ### Installation
 
 1. Clone the repository to your local machine:
-
+'''
 git clone [https://github.com/yourusername/hotel-management-system-java.git](https://github.com/DhanushAnbalagan/Hotel-Management-System/edit/main/README.md)
+'''
 
-
-2. Navigate to the project directory:
+3. Navigate to the project directory:
 
 cd hotel-management-system-java
 
