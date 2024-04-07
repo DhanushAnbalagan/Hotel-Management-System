@@ -58,7 +58,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries or support, please contact [your email address](dhanushanbu12@gmail.com).
+For any inquiries or support, please contact through [email](dhanushanbu12@gmail.com).
 
 
 
